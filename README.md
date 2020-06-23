@@ -1,9 +1,6 @@
 # 이력서
 
-
-
-
-
+&nbsp;
 ## 소개
 
 ![https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png](https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png)
@@ -15,18 +12,12 @@
 - GitHub: [https://github.com/minkkkjoon](https://github.com/minkkkjoon)
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
 
-
-
-
-
+&nbsp;
 ## 회사 경력
 
 - ooddy corp. (2020.02 ~ )
 
-
-
-
-
+&nbsp;
 ## 외부 활동
 
 📌 **iO3S Study**
@@ -40,10 +31,7 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 TDD - (Coming Soon...)
 ```
 
-
-
-
-
+&nbsp;
 ## 학력
 
 - 중화고등학교 
