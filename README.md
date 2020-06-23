@@ -1,6 +1,5 @@
-# README
-
 # 이력서
+
 
 ## 소개
 ![https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png](https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png)
@@ -12,8 +11,10 @@
 - GitHub: [https://github.com/minkkkjoon](https://github.com/minkkkjoon)
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
 
+
 ## 회사 경력
 - ooddy corp. (2020.02 ~ )
+
 
 ## 외부 활동
 ### 📌 **iO3S Study**
@@ -23,6 +24,7 @@
 
 *자료구조 -* [https://github.com/iO3S/DataStructures-Algorithm](https://github.com/iO3S/DataStructures-Algorithm)
 *TDD* - (Coming Soon...)
+
 
 ## 학력
 - 중화고등학교 
