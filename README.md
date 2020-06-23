@@ -1,6 +1,6 @@
 # 이력서
 
-
+<br/>
 ## 소개
 ![https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png](https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png)
 
@@ -19,7 +19,7 @@
 ## 외부 활동
 ### 📌 **iO3S Study**
 
-               Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
+Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 6~8명의 인원으로 진행하고 있으며, 한 주씩 1~2명의 인원이 발표하는 방식의 스터디
 
 *자료구조 -* [https://github.com/iO3S/DataStructures-Algorithm](https://github.com/iO3S/DataStructures-Algorithm)
