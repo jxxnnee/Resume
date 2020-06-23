@@ -1,6 +1,9 @@
 # 이력서
 
-&nbsp;
+
+
+
+
 ## 소개
 
 ![https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png](https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png)
@@ -11,27 +14,37 @@
 - Email: 94mkjoon@gmail.com
 - GitHub: [https://github.com/minkkkjoon](https://github.com/minkkkjoon)
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
+- Notion: [https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6](https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6)
 
-&nbsp;
+
+
+
+
 ## 회사 경력
 
 - ooddy corp. (2020.02 ~ )
 
-&nbsp;
+
+
+
+
 ## 외부 활동
 
-### 📎 iO3S Study
+### 📘 iO3S Study
 
 Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 
-6\~8명의 인원으로 진행하고 있으며, 한 주씩 1~2명의 인원이 발표하는 방식의 스터디
+6~8명의 인원으로 진행하고 있으며, 한 주씩 1~2명의 인원이 발표하는 방식의 스터디
 
 ```
 자료구조 - https://github.com/iO3S/DataStructures-Algorithm
 TDD - (Coming Soon...)
 ```
 
-&nbsp;
+
+
+
+
 ## 학력
 
 - 중화고등학교 
@@ -40,3 +53,48 @@ TDD - (Coming Soon...)
 (2013.03 ~ 2020.02)
 - 인덕대학교 컴퓨터소프트웨어 전공심화 
 (2020.03 ~ 2021. 02)
+
+
+
+## 사용기술
+
+### iOS
+
+- Swift
+- RxSwift
+- MVC, MVVM Pattern
+- CocoaPods
+- Xcode
+
+### Frameworks
+
+- Alamofire
+- Kingfisher
+- Firebase Auth/ML Vision
+- Sign In Google, Kakao, Apple
+- AWS S3
+- SwiftyJSON
+
+### Server
+
+- Java
+- nodeJS
+- C++
+
+### Database
+
+- MySQL
+- MariaDB
+- Oracle
+- MongoDB
+
+### Tools
+
+- DataGrip
+- SourceTree
+- Github
+- Slack
+- Postman
+- VS Code
+- iTerm
+
