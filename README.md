@@ -3,9 +3,6 @@
 # 이력서
 
 ## 소개
-
----
-
 ![https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png](https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png)
 
 - 이름: 민경준
@@ -16,15 +13,9 @@
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
 
 ## 회사 경력
-
----
-
 - ooddy corp. (2020.02 ~ )
 
 ## 외부 활동
-
----
-
 ### 📌 **iO3S Study**
 
                Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
@@ -34,9 +25,6 @@
 *TDD* - (Coming Soon...)
 
 ## 학력
-
----
-
 - 중화고등학교 
 (2010. 03 ~ 2012.02)
 - 인덕대학교 컴퓨터소프트웨어학과 
