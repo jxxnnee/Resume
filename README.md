@@ -1,7 +1,7 @@
 # 이력서
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+[![HitCount](http://hits.dwyl.com/minkkkjoon/Resume.svg)](http://hits.dwyl.com/minkkkjoon/Resume)
 
 
 ## 소개
