@@ -116,11 +116,11 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 
 <img src="https://github.com/jxxnnee/RESUME/raw/master/images/buddycoin.png" alt="buddycoin" width="10%"/>
 
-- Intro: 외화환전 예약 및 잔돈 적립 서비스
-- Period: 2020. 02 ~
-- Role: iOS 앱 유지보수 및 신규 기능 개발
-- Skills: Swift, MVVM, CocoaPods, Github, Xcode
-- Frameworks: Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple
+- **Intro**: 외화환전 예약 및 잔돈 적립 서비스
+- **Period**: 2020. 02 ~
+- **Role**: iOS 앱 유지보수 및 신규 기능 개발
+- **Skills**: Swift, MVVM, CocoaPods, Github, Xcode
+- **Frameworks**: Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple
 
 
 
