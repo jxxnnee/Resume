@@ -12,13 +12,13 @@
 
 ## 소개
 
-![https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png](https://github.com/minkkkjoon/RESUME/raw/master/images/profile.png)
+![https://github.com/jxxnnee/RESUME/raw/master/images/profile.png](https://github.com/jxxnnee/RESUME/raw/master/images/profile.png)
 
 - 이름: 민경준
 - 생년월일: 1994. 06. 22
 - 취미: 영화 감상, 게임, 운동,
 - Email: 94mkjoon@gmail.com
-- GitHub: [https://github.com/minkkkjoon](https://github.com/minkkkjoon)
+- GitHub: [https://github.com/jxxnnee
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
 - Notion: [https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6](https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6)
 
@@ -69,6 +69,7 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 
 - Swift
 - RxSwift
+- RxCocoa
 - MVC, MVVM Pattern
 - CocoaPods
 - Xcode
@@ -81,6 +82,8 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 - Sign In Google, Kakao, Apple
 - AWS S3
 - SwiftyJSON
+- Kakao Map
+- User Defaults, Property List
 
 ### Server
 
@@ -104,4 +107,20 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 - Postman
 - VS Code
 - iTerm
+
+&nbsp;
+
+## 프로젝트 이력
+
+### BuddyCoin
+
+<img src="https://github.com/jxxnnee/RESUME/raw/master/images/buddycoin.png" alt="buddycoin" width="10%"/>
+
+- Intro: 외화환전 예약 및 잔돈 적립 서비스
+- Period: 2020. 02 ~
+- Role: iOS 앱 유지보수 및 신규 기능 개발
+- Skills: Swift, MVVM, CocoaPods, Github, Xcode
+- Frameworks: Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple
+
+
 
