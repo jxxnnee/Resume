@@ -120,7 +120,8 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 - **Period**: 2020. 02 ~
 - **Role**: iOS 앱 유지보수 및 신규 기능 개발
 - **Skills**: Swift, MVVM, CocoaPods, Github, Xcode
-- **Frameworks**: Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple
+- **Frameworks**: Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple, etc...
+- **Detail**: [https://www.notion.so/BuddyCoin](https://www.notion.so/BuddyCoin-5f7a11f6bc754975b4b0e2d2ff1ef7d4)
 
 
 
