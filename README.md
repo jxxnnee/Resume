@@ -18,9 +18,9 @@
 - 생년월일: 1994. 06. 22
 - 취미: 영화 감상, 게임, 운동,
 - Email: 94mkjoon@gmail.com
-- GitHub: [https://github.com/jxxnnee
+- GitHub: [https://github.com/jxxnnee](https://github.com/jxxnnee)
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
-- Notion: [https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6](https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6)
+- Notion: [https://www.notion.so/Intermission-Study](https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6)
 
 
 
