@@ -125,3 +125,13 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 
 
 
+### Introduce Self
+
+- **Intro**: 간단히 자신의 이력을 저장하는 서비스
+- **Peroid**: 2019.12 ~
+- **Role**: iOS 앱 개발 및 EC2 서버 운용
+- **Skills**: Swift, MVVM, CocoaPods, Github, Xcode, Nodejs, Npm, VS Code
+- **Frameworks**: Almofire, Firebase, RxSwift, RxCocoa, RxGesture, SnapKit, AWS S3, RDS, sequelize, jwt
+- **Detail**: [https://www.notion.so/Introduce-Self](https://www.notion.so/Introduce-Self-b04219141fa3495da301aaf1eed21f1a)
+- **Repository**: https://github.com/jxxnnee/Introduce-Self
+
