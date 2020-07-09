@@ -88,7 +88,7 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 ### Server
 
 - Java
-- nodeJS
+- NodeJS
 - C++
 
 ### Database
