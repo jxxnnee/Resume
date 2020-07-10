@@ -10,13 +10,16 @@
 
 &nbsp;
 
+
+
+
+
 ## 소개
 
 ![https://github.com/jxxnnee/RESUME/raw/master/images/profile.png](https://github.com/jxxnnee/RESUME/raw/master/images/profile.png)
 
 - 이름: 민경준
 - 생년월일: 1994. 06. 22
-- 취미: 영화 감상, 게임, 운동,
 - Email: 94mkjoon@gmail.com
 - GitHub: [https://github.com/jxxnnee](https://github.com/jxxnnee)
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
@@ -111,6 +114,7 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 <img src="https://github.com/jxxnnee/RESUME/raw/master/images/buddycoin.png" alt="buddycoin" width="10%"/>
 
 - **Intro**: 외화환전 예약 및 잔돈 적립 서비스
+- **Type**: Company, Team
 - **Period**: 2020. 02 ~
 - **Role**: iOS 앱 유지보수 및 신규 기능 개발
 - **Skills**: Swift, MVVM, CocoaPods, Github, Xcode
@@ -122,10 +126,11 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 ### Introduce Self
 
 - **Intro**: 간단히 자신의 이력을 저장하는 서비스
-- **Peroid**: 2019.12 ~
+- **Type**: Individual, Personal
+- **Peroid**: 2020.06 ~
 - **Role**: iOS 앱 개발 및 EC2 서버 운용
 - **Skills**: Swift, MVVM, CocoaPods, Github, Xcode, Nodejs, Npm, VS Code
-- **Frameworks**: Almofire, Firebase, RxSwift, RxCocoa, RxGesture, SnapKit, AWS S3, RDS, sequelize, jwt
+- **Frameworks**: Almofire, Firebase, RxSwift, RxCocoa, RxGesture, SnapKit, AWS (EC2, S3, RDS), sequelize, jwt
 - **Detail**: [https://www.notion.so/Introduce-Self](https://www.notion.so/Introduce-Self-b04219141fa3495da301aaf1eed21f1a)
 - **Repository**: https://github.com/jxxnnee/Introduce-Self
 
