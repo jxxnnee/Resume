@@ -34,6 +34,19 @@
 
 &nbsp;
 
+## 학력
+
+- 중화고등학교 
+  (2010. 03 ~ 2012.02)
+- 인덕대학교 컴퓨터소프트웨어학과 
+  (2013.03 ~ 2020.02)
+- 인덕대학교 컴퓨터소프트웨어 전공심화 
+  (2020.03 ~ 2021. 02)
+
+
+
+&nbsp;
+
 ## 외부 활동
 
 ### 📘 iO3S Study
@@ -42,24 +55,8 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 
 6\~8명의 인원으로 진행하고 있으며, 한 주씩 1~2명의 인원이 발표하는 방식의 스터디
 
-- RxSwift - 
+- RxSwift - X
 - 자료구조 - https://github.com/iO3S/DataStructures-Algorithm
-- TDD - (Coming Soon...)
-
-
-
-&nbsp;
-
-## 학력
-
-- 중화고등학교 
-(2010. 03 ~ 2012.02)
-- 인덕대학교 컴퓨터소프트웨어학과 
-(2013.03 ~ 2020.02)
-- 인덕대학교 컴퓨터소프트웨어 전공심화 
-(2020.03 ~ 2021. 02)
-
-
 
 &nbsp;
 
@@ -73,23 +70,20 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 - MVC, MVVM Pattern
 - CocoaPods
 - Xcode
-
-### Frameworks
-
-- Alamofire
-- Kingfisher
-- Firebase Auth/ML Vision
-- Sign In Google, Kakao, Apple
-- AWS S3
-- SwiftyJSON
-- Kakao Map
-- User Defaults, Property List
+- **Frameworks** **/** **Libraries**
+  - Alamofire, Kingfisher, SwiftyJSON
+  - RxSwift, RxCocoa, RxGesture, SnapKit
+  - Firebase Auth, ML Vision
+  - Sign In Social (Google, Kakao, Apple)
+  - AWS S3
+  - User Defaults, Property List
 
 ### Server
 
 - Java
 - NodeJS
 - C++
+- AWS (EC2, S3, RDS)
 
 ### Database
 
