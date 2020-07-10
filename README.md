@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/minkkkjoon/RESUME.svg)
 ![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
 
-
+&nbsp;
 
 &nbsp;
 
@@ -25,7 +25,7 @@
 - LikedIn: [https://www.linkedin.com/in/jxxnnee/](https://www.linkedin.com/in/jxxnnee/)
 - Notion: [https://www.notion.so/Intermission-Study](https://www.notion.so/Intermission-Study-f12a52f69e614cc7a1dc791acdc6d2d6)
 
-
+&nbsp;
 
 &nbsp;
 
@@ -33,7 +33,7 @@
 
 - ooddy corp. (2020.02 ~ )
 
-
+&nbsp;
 
 &nbsp;
 
@@ -46,7 +46,7 @@
 - 인덕대학교 컴퓨터소프트웨어 전공심화 
   (2020.03 ~ 2021. 02)
 
-
+&nbsp;
 
 &nbsp;
 
@@ -60,6 +60,8 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 
 - RxSwift - X
 - 자료구조 - https://github.com/iO3S/DataStructures-Algorithm
+
+&nbsp;
 
 &nbsp;
 
@@ -107,6 +109,8 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 
 &nbsp;
 
+&nbsp;
+
 ## 프로젝트 이력
 
 ### BuddyCoin
@@ -121,7 +125,7 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 - **Frameworks**: Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple, etc...
 - **Detail**: [https://www.notion.so/BuddyCoin](https://www.notion.so/BuddyCoin-5f7a11f6bc754975b4b0e2d2ff1ef7d4)
 
-
+&nbsp;
 
 ### Introduce Self
 
