@@ -122,19 +122,44 @@ Swift 언어 관련 주제를 정하여 진행하는 스터디 모임
 - **Period**: 2020. 02 ~
 - **Role**: iOS 앱 유지보수 및 신규 기능 개발
 - **Skills**: Swift, MVVM, CocoaPods, Github, Xcode
-- **Frameworks**: Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple, etc...
+- **Libraries** : Alamofire, Kingfisher, AWS S3, Firebase MLVision, Sign In Apple, etc...
 - **Detail**: [https://www.notion.so/BuddyCoin](https://www.notion.so/BuddyCoin-5f7a11f6bc754975b4b0e2d2ff1ef7d4)
 
 &nbsp;
+
+## 개인 프로젝트 및 과제
 
 ### Introduce Self
 
 - **Intro**: 간단히 자신의 이력을 저장하는 서비스
 - **Type**: Individual, Personal
-- **Peroid**: 2020.06 ~
+- **Peroid**: 2020.06 ~ 제작 중
 - **Role**: iOS 앱 개발 및 EC2 서버 운용
 - **Skills**: Swift, MVVM, CocoaPods, Github, Xcode, Nodejs, Npm, VS Code
-- **Frameworks**: Almofire, Firebase, RxSwift, RxCocoa, RxGesture, SnapKit, AWS (EC2, S3, RDS), sequelize, jwt
+- **Libraries**: Almofire, Firebase, RxSwift, RxCocoa, RxGesture, SnapKit, AWS (EC2, S3, RDS), sequelize, jwt
 - **Detail**: [https://www.notion.so/Introduce-Self](https://www.notion.so/Introduce-Self-b04219141fa3495da301aaf1eed21f1a)
 - **Repository**: https://github.com/jxxnnee/Introduce-Self
+
+&nbsp;
+
+### ForTableViewExercise
+
+- **Intro**: JSON 파일의 데이터를 읽어와 TableView를 구성하는 간단한 앱이다.
+- **Type**: Subject, Personal
+- **Period**: 2020. 07. 14 ~ 07. 21
+- **Role**: iOS 앱 개발
+- **Skills**: Swift, MVC, CocoaPods, Github, Xcode, JSON
+- **Libraries**: Kingfisher, Codable
+- **Repository**: https://github.com/jxxnnee/ForTableViewExercise
+
+&nbsp;
+
+### CustomTransitionAnimation
+
+- **Intro**: View의 Transition Animation을 Custom 해보는 앱이다.
+- **Type**: Individual, Personal
+- **Period**: 2020. 07. 14
+- **Skills**: Swift, Github, Xcode
+- **Libraries**: UIKit
+- **Repository**: https://github.com/jxxnnee/CustomTransitionAnimation
 
